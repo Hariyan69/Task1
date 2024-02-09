@@ -1091,7 +1091,6 @@ span{
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: cover;
-    margin-top: -1px;
 }
 #con{
 
@@ -1141,8 +1140,8 @@ span{
 #footer{
     background-color: black;
     height: 100px;
-    margin-left: -150px;
-    width: 633px;
+    /* margin-left: px; */
+    width: 663px;
 
 }
 #footer p{
